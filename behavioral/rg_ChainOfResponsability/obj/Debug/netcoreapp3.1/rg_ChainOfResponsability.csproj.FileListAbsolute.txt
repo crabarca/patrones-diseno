@@ -1,0 +1,11 @@
+/home/cristobal/MEGA/U/Diseno/Examen/patterns/behavioral/rg_ChainOfResponsability/bin/Debug/netcoreapp3.1/rg_ChainOfResponsability
+/home/cristobal/MEGA/U/Diseno/Examen/patterns/behavioral/rg_ChainOfResponsability/bin/Debug/netcoreapp3.1/rg_ChainOfResponsability.deps.json
+/home/cristobal/MEGA/U/Diseno/Examen/patterns/behavioral/rg_ChainOfResponsability/bin/Debug/netcoreapp3.1/rg_ChainOfResponsability.runtimeconfig.json
+/home/cristobal/MEGA/U/Diseno/Examen/patterns/behavioral/rg_ChainOfResponsability/bin/Debug/netcoreapp3.1/rg_ChainOfResponsability.runtimeconfig.dev.json
+/home/cristobal/MEGA/U/Diseno/Examen/patterns/behavioral/rg_ChainOfResponsability/bin/Debug/netcoreapp3.1/rg_ChainOfResponsability.dll
+/home/cristobal/MEGA/U/Diseno/Examen/patterns/behavioral/rg_ChainOfResponsability/bin/Debug/netcoreapp3.1/rg_ChainOfResponsability.pdb
+/home/cristobal/MEGA/U/Diseno/Examen/patterns/behavioral/rg_ChainOfResponsability/obj/Debug/netcoreapp3.1/rg_ChainOfResponsability.csprojAssemblyReference.cache
+/home/cristobal/MEGA/U/Diseno/Examen/patterns/behavioral/rg_ChainOfResponsability/obj/Debug/netcoreapp3.1/rg_ChainOfResponsability.AssemblyInfoInputs.cache
+/home/cristobal/MEGA/U/Diseno/Examen/patterns/behavioral/rg_ChainOfResponsability/obj/Debug/netcoreapp3.1/rg_ChainOfResponsability.AssemblyInfo.cs
+/home/cristobal/MEGA/U/Diseno/Examen/patterns/behavioral/rg_ChainOfResponsability/obj/Debug/netcoreapp3.1/rg_ChainOfResponsability.dll
+/home/cristobal/MEGA/U/Diseno/Examen/patterns/behavioral/rg_ChainOfResponsability/obj/Debug/netcoreapp3.1/rg_ChainOfResponsability.pdb

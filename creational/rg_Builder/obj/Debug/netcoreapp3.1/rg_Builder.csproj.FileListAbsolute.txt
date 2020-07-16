@@ -1,0 +1,11 @@
+/home/cristobal/MEGA/U/Diseno/Examen/patterns/creational/rg_Builder/obj/Debug/netcoreapp3.1/rg_Builder.csprojAssemblyReference.cache
+/home/cristobal/MEGA/U/Diseno/Examen/patterns/creational/rg_Builder/obj/Debug/netcoreapp3.1/rg_Builder.AssemblyInfoInputs.cache
+/home/cristobal/MEGA/U/Diseno/Examen/patterns/creational/rg_Builder/obj/Debug/netcoreapp3.1/rg_Builder.AssemblyInfo.cs
+/home/cristobal/MEGA/U/Diseno/Examen/patterns/creational/rg_Builder/bin/Debug/netcoreapp3.1/rg_Builder
+/home/cristobal/MEGA/U/Diseno/Examen/patterns/creational/rg_Builder/bin/Debug/netcoreapp3.1/rg_Builder.deps.json
+/home/cristobal/MEGA/U/Diseno/Examen/patterns/creational/rg_Builder/bin/Debug/netcoreapp3.1/rg_Builder.runtimeconfig.json
+/home/cristobal/MEGA/U/Diseno/Examen/patterns/creational/rg_Builder/bin/Debug/netcoreapp3.1/rg_Builder.runtimeconfig.dev.json
+/home/cristobal/MEGA/U/Diseno/Examen/patterns/creational/rg_Builder/bin/Debug/netcoreapp3.1/rg_Builder.dll
+/home/cristobal/MEGA/U/Diseno/Examen/patterns/creational/rg_Builder/bin/Debug/netcoreapp3.1/rg_Builder.pdb
+/home/cristobal/MEGA/U/Diseno/Examen/patterns/creational/rg_Builder/obj/Debug/netcoreapp3.1/rg_Builder.dll
+/home/cristobal/MEGA/U/Diseno/Examen/patterns/creational/rg_Builder/obj/Debug/netcoreapp3.1/rg_Builder.pdb

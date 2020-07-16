@@ -1,0 +1,11 @@
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Bridge/bin/Debug/netcoreapp3.0/Bridge
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Bridge/bin/Debug/netcoreapp3.0/Bridge.deps.json
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Bridge/bin/Debug/netcoreapp3.0/Bridge.runtimeconfig.json
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Bridge/bin/Debug/netcoreapp3.0/Bridge.runtimeconfig.dev.json
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Bridge/bin/Debug/netcoreapp3.0/Bridge.dll
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Bridge/bin/Debug/netcoreapp3.0/Bridge.pdb
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Bridge/obj/Debug/netcoreapp3.0/Bridge.csprojAssemblyReference.cache
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Bridge/obj/Debug/netcoreapp3.0/Bridge.AssemblyInfoInputs.cache
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Bridge/obj/Debug/netcoreapp3.0/Bridge.AssemblyInfo.cs
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Bridge/obj/Debug/netcoreapp3.0/Bridge.dll
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Bridge/obj/Debug/netcoreapp3.0/Bridge.pdb

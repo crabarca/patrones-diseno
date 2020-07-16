@@ -1,0 +1,11 @@
+/home/cristobal/MEGA/U/Diseno/Examen/patterns/creational/rg_Singleton/bin/Debug/netcoreapp3.1/rg_Singleton
+/home/cristobal/MEGA/U/Diseno/Examen/patterns/creational/rg_Singleton/bin/Debug/netcoreapp3.1/rg_Singleton.deps.json
+/home/cristobal/MEGA/U/Diseno/Examen/patterns/creational/rg_Singleton/bin/Debug/netcoreapp3.1/rg_Singleton.runtimeconfig.json
+/home/cristobal/MEGA/U/Diseno/Examen/patterns/creational/rg_Singleton/bin/Debug/netcoreapp3.1/rg_Singleton.runtimeconfig.dev.json
+/home/cristobal/MEGA/U/Diseno/Examen/patterns/creational/rg_Singleton/bin/Debug/netcoreapp3.1/rg_Singleton.dll
+/home/cristobal/MEGA/U/Diseno/Examen/patterns/creational/rg_Singleton/bin/Debug/netcoreapp3.1/rg_Singleton.pdb
+/home/cristobal/MEGA/U/Diseno/Examen/patterns/creational/rg_Singleton/obj/Debug/netcoreapp3.1/rg_Singleton.csprojAssemblyReference.cache
+/home/cristobal/MEGA/U/Diseno/Examen/patterns/creational/rg_Singleton/obj/Debug/netcoreapp3.1/rg_Singleton.AssemblyInfoInputs.cache
+/home/cristobal/MEGA/U/Diseno/Examen/patterns/creational/rg_Singleton/obj/Debug/netcoreapp3.1/rg_Singleton.AssemblyInfo.cs
+/home/cristobal/MEGA/U/Diseno/Examen/patterns/creational/rg_Singleton/obj/Debug/netcoreapp3.1/rg_Singleton.dll
+/home/cristobal/MEGA/U/Diseno/Examen/patterns/creational/rg_Singleton/obj/Debug/netcoreapp3.1/rg_Singleton.pdb

@@ -1,0 +1,11 @@
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Decorator/bin/Debug/netcoreapp3.0/Decorator
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Decorator/bin/Debug/netcoreapp3.0/Decorator.deps.json
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Decorator/bin/Debug/netcoreapp3.0/Decorator.runtimeconfig.json
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Decorator/bin/Debug/netcoreapp3.0/Decorator.runtimeconfig.dev.json
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Decorator/bin/Debug/netcoreapp3.0/Decorator.dll
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Decorator/bin/Debug/netcoreapp3.0/Decorator.pdb
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Decorator/obj/Debug/netcoreapp3.0/Decorator.csprojAssemblyReference.cache
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Decorator/obj/Debug/netcoreapp3.0/Decorator.AssemblyInfoInputs.cache
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Decorator/obj/Debug/netcoreapp3.0/Decorator.AssemblyInfo.cs
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Decorator/obj/Debug/netcoreapp3.0/Decorator.dll
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Decorator/obj/Debug/netcoreapp3.0/Decorator.pdb

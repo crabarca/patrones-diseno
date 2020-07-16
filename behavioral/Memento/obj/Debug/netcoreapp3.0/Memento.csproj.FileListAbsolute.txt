@@ -1,0 +1,11 @@
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Memento/bin/Debug/netcoreapp3.0/Memento
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Memento/bin/Debug/netcoreapp3.0/Memento.deps.json
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Memento/bin/Debug/netcoreapp3.0/Memento.runtimeconfig.json
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Memento/bin/Debug/netcoreapp3.0/Memento.runtimeconfig.dev.json
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Memento/bin/Debug/netcoreapp3.0/Memento.dll
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Memento/bin/Debug/netcoreapp3.0/Memento.pdb
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Memento/obj/Debug/netcoreapp3.0/Memento.csprojAssemblyReference.cache
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Memento/obj/Debug/netcoreapp3.0/Memento.AssemblyInfoInputs.cache
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Memento/obj/Debug/netcoreapp3.0/Memento.AssemblyInfo.cs
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Memento/obj/Debug/netcoreapp3.0/Memento.dll
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Memento/obj/Debug/netcoreapp3.0/Memento.pdb

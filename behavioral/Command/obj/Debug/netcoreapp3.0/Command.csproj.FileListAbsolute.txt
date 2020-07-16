@@ -1,0 +1,11 @@
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Command/bin/Debug/netcoreapp3.0/Command
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Command/bin/Debug/netcoreapp3.0/Command.deps.json
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Command/bin/Debug/netcoreapp3.0/Command.runtimeconfig.json
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Command/bin/Debug/netcoreapp3.0/Command.runtimeconfig.dev.json
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Command/bin/Debug/netcoreapp3.0/Command.dll
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Command/bin/Debug/netcoreapp3.0/Command.pdb
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Command/obj/Debug/netcoreapp3.0/Command.csprojAssemblyReference.cache
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Command/obj/Debug/netcoreapp3.0/Command.AssemblyInfoInputs.cache
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Command/obj/Debug/netcoreapp3.0/Command.AssemblyInfo.cs
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Command/obj/Debug/netcoreapp3.0/Command.dll
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Command/obj/Debug/netcoreapp3.0/Command.pdb

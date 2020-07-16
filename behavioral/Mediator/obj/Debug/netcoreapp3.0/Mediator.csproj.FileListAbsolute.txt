@@ -1,0 +1,11 @@
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Mediator/bin/Debug/netcoreapp3.0/Mediator
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Mediator/bin/Debug/netcoreapp3.0/Mediator.deps.json
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Mediator/bin/Debug/netcoreapp3.0/Mediator.runtimeconfig.json
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Mediator/bin/Debug/netcoreapp3.0/Mediator.runtimeconfig.dev.json
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Mediator/bin/Debug/netcoreapp3.0/Mediator.dll
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Mediator/bin/Debug/netcoreapp3.0/Mediator.pdb
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Mediator/obj/Debug/netcoreapp3.0/Mediator.csprojAssemblyReference.cache
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Mediator/obj/Debug/netcoreapp3.0/Mediator.AssemblyInfoInputs.cache
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Mediator/obj/Debug/netcoreapp3.0/Mediator.AssemblyInfo.cs
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Mediator/obj/Debug/netcoreapp3.0/Mediator.dll
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Mediator/obj/Debug/netcoreapp3.0/Mediator.pdb

@@ -1,0 +1,11 @@
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Proxy/bin/Debug/netcoreapp3.0/Proxy
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Proxy/bin/Debug/netcoreapp3.0/Proxy.deps.json
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Proxy/bin/Debug/netcoreapp3.0/Proxy.runtimeconfig.json
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Proxy/bin/Debug/netcoreapp3.0/Proxy.runtimeconfig.dev.json
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Proxy/bin/Debug/netcoreapp3.0/Proxy.dll
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Proxy/bin/Debug/netcoreapp3.0/Proxy.pdb
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Proxy/obj/Debug/netcoreapp3.0/Proxy.csprojAssemblyReference.cache
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Proxy/obj/Debug/netcoreapp3.0/Proxy.AssemblyInfoInputs.cache
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Proxy/obj/Debug/netcoreapp3.0/Proxy.AssemblyInfo.cs
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Proxy/obj/Debug/netcoreapp3.0/Proxy.dll
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Proxy/obj/Debug/netcoreapp3.0/Proxy.pdb

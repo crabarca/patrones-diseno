@@ -1,0 +1,11 @@
+/Users/jose/Programming/RiderProjects/IIC2113-2019/State/bin/Debug/netcoreapp3.0/State
+/Users/jose/Programming/RiderProjects/IIC2113-2019/State/bin/Debug/netcoreapp3.0/State.deps.json
+/Users/jose/Programming/RiderProjects/IIC2113-2019/State/bin/Debug/netcoreapp3.0/State.runtimeconfig.json
+/Users/jose/Programming/RiderProjects/IIC2113-2019/State/bin/Debug/netcoreapp3.0/State.runtimeconfig.dev.json
+/Users/jose/Programming/RiderProjects/IIC2113-2019/State/bin/Debug/netcoreapp3.0/State.dll
+/Users/jose/Programming/RiderProjects/IIC2113-2019/State/bin/Debug/netcoreapp3.0/State.pdb
+/Users/jose/Programming/RiderProjects/IIC2113-2019/State/obj/Debug/netcoreapp3.0/State.csprojAssemblyReference.cache
+/Users/jose/Programming/RiderProjects/IIC2113-2019/State/obj/Debug/netcoreapp3.0/State.AssemblyInfoInputs.cache
+/Users/jose/Programming/RiderProjects/IIC2113-2019/State/obj/Debug/netcoreapp3.0/State.AssemblyInfo.cs
+/Users/jose/Programming/RiderProjects/IIC2113-2019/State/obj/Debug/netcoreapp3.0/State.dll
+/Users/jose/Programming/RiderProjects/IIC2113-2019/State/obj/Debug/netcoreapp3.0/State.pdb

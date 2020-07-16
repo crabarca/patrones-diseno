@@ -1,0 +1,11 @@
+/home/cristobal/MEGA/U/Diseno/Examen/patterns/creational/rg_AbstractFactory/obj/Debug/netcoreapp3.1/rg_AbstractFactory.csprojAssemblyReference.cache
+/home/cristobal/MEGA/U/Diseno/Examen/patterns/creational/rg_AbstractFactory/obj/Debug/netcoreapp3.1/rg_AbstractFactory.AssemblyInfoInputs.cache
+/home/cristobal/MEGA/U/Diseno/Examen/patterns/creational/rg_AbstractFactory/obj/Debug/netcoreapp3.1/rg_AbstractFactory.AssemblyInfo.cs
+/home/cristobal/MEGA/U/Diseno/Examen/patterns/creational/rg_AbstractFactory/bin/Debug/netcoreapp3.1/rg_AbstractFactory
+/home/cristobal/MEGA/U/Diseno/Examen/patterns/creational/rg_AbstractFactory/bin/Debug/netcoreapp3.1/rg_AbstractFactory.deps.json
+/home/cristobal/MEGA/U/Diseno/Examen/patterns/creational/rg_AbstractFactory/bin/Debug/netcoreapp3.1/rg_AbstractFactory.runtimeconfig.json
+/home/cristobal/MEGA/U/Diseno/Examen/patterns/creational/rg_AbstractFactory/bin/Debug/netcoreapp3.1/rg_AbstractFactory.runtimeconfig.dev.json
+/home/cristobal/MEGA/U/Diseno/Examen/patterns/creational/rg_AbstractFactory/bin/Debug/netcoreapp3.1/rg_AbstractFactory.dll
+/home/cristobal/MEGA/U/Diseno/Examen/patterns/creational/rg_AbstractFactory/bin/Debug/netcoreapp3.1/rg_AbstractFactory.pdb
+/home/cristobal/MEGA/U/Diseno/Examen/patterns/creational/rg_AbstractFactory/obj/Debug/netcoreapp3.1/rg_AbstractFactory.dll
+/home/cristobal/MEGA/U/Diseno/Examen/patterns/creational/rg_AbstractFactory/obj/Debug/netcoreapp3.1/rg_AbstractFactory.pdb

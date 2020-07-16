@@ -1,0 +1,11 @@
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Strategy/bin/Debug/netcoreapp3.0/Strategy
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Strategy/bin/Debug/netcoreapp3.0/Strategy.deps.json
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Strategy/bin/Debug/netcoreapp3.0/Strategy.runtimeconfig.json
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Strategy/bin/Debug/netcoreapp3.0/Strategy.runtimeconfig.dev.json
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Strategy/bin/Debug/netcoreapp3.0/Strategy.dll
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Strategy/bin/Debug/netcoreapp3.0/Strategy.pdb
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Strategy/obj/Debug/netcoreapp3.0/Strategy.csprojAssemblyReference.cache
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Strategy/obj/Debug/netcoreapp3.0/Strategy.AssemblyInfoInputs.cache
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Strategy/obj/Debug/netcoreapp3.0/Strategy.AssemblyInfo.cs
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Strategy/obj/Debug/netcoreapp3.0/Strategy.dll
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Strategy/obj/Debug/netcoreapp3.0/Strategy.pdb

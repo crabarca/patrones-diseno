@@ -1,0 +1,11 @@
+/Users/jose/Programming/RiderProjects/IIC2113-2019/TemplateMethod/bin/Debug/netcoreapp3.0/TemplateMethod
+/Users/jose/Programming/RiderProjects/IIC2113-2019/TemplateMethod/bin/Debug/netcoreapp3.0/TemplateMethod.deps.json
+/Users/jose/Programming/RiderProjects/IIC2113-2019/TemplateMethod/bin/Debug/netcoreapp3.0/TemplateMethod.runtimeconfig.json
+/Users/jose/Programming/RiderProjects/IIC2113-2019/TemplateMethod/bin/Debug/netcoreapp3.0/TemplateMethod.runtimeconfig.dev.json
+/Users/jose/Programming/RiderProjects/IIC2113-2019/TemplateMethod/bin/Debug/netcoreapp3.0/TemplateMethod.dll
+/Users/jose/Programming/RiderProjects/IIC2113-2019/TemplateMethod/bin/Debug/netcoreapp3.0/TemplateMethod.pdb
+/Users/jose/Programming/RiderProjects/IIC2113-2019/TemplateMethod/obj/Debug/netcoreapp3.0/TemplateMethod.csprojAssemblyReference.cache
+/Users/jose/Programming/RiderProjects/IIC2113-2019/TemplateMethod/obj/Debug/netcoreapp3.0/TemplateMethod.AssemblyInfoInputs.cache
+/Users/jose/Programming/RiderProjects/IIC2113-2019/TemplateMethod/obj/Debug/netcoreapp3.0/TemplateMethod.AssemblyInfo.cs
+/Users/jose/Programming/RiderProjects/IIC2113-2019/TemplateMethod/obj/Debug/netcoreapp3.0/TemplateMethod.dll
+/Users/jose/Programming/RiderProjects/IIC2113-2019/TemplateMethod/obj/Debug/netcoreapp3.0/TemplateMethod.pdb

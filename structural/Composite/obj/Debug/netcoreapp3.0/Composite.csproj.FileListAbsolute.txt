@@ -1,0 +1,11 @@
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Composite/bin/Debug/netcoreapp3.0/Composite
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Composite/bin/Debug/netcoreapp3.0/Composite.deps.json
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Composite/bin/Debug/netcoreapp3.0/Composite.runtimeconfig.json
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Composite/bin/Debug/netcoreapp3.0/Composite.runtimeconfig.dev.json
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Composite/bin/Debug/netcoreapp3.0/Composite.dll
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Composite/bin/Debug/netcoreapp3.0/Composite.pdb
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Composite/obj/Debug/netcoreapp3.0/Composite.csprojAssemblyReference.cache
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Composite/obj/Debug/netcoreapp3.0/Composite.AssemblyInfoInputs.cache
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Composite/obj/Debug/netcoreapp3.0/Composite.AssemblyInfo.cs
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Composite/obj/Debug/netcoreapp3.0/Composite.dll
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Composite/obj/Debug/netcoreapp3.0/Composite.pdb

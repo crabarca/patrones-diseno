@@ -1,0 +1,11 @@
+/home/cristobal/MEGA/U/Diseno/Examen/patterns/creational/rg_Prototype/bin/Debug/netcoreapp3.1/rg_Prototype
+/home/cristobal/MEGA/U/Diseno/Examen/patterns/creational/rg_Prototype/bin/Debug/netcoreapp3.1/rg_Prototype.deps.json
+/home/cristobal/MEGA/U/Diseno/Examen/patterns/creational/rg_Prototype/bin/Debug/netcoreapp3.1/rg_Prototype.runtimeconfig.json
+/home/cristobal/MEGA/U/Diseno/Examen/patterns/creational/rg_Prototype/bin/Debug/netcoreapp3.1/rg_Prototype.runtimeconfig.dev.json
+/home/cristobal/MEGA/U/Diseno/Examen/patterns/creational/rg_Prototype/bin/Debug/netcoreapp3.1/rg_Prototype.dll
+/home/cristobal/MEGA/U/Diseno/Examen/patterns/creational/rg_Prototype/bin/Debug/netcoreapp3.1/rg_Prototype.pdb
+/home/cristobal/MEGA/U/Diseno/Examen/patterns/creational/rg_Prototype/obj/Debug/netcoreapp3.1/rg_Prototype.csprojAssemblyReference.cache
+/home/cristobal/MEGA/U/Diseno/Examen/patterns/creational/rg_Prototype/obj/Debug/netcoreapp3.1/rg_Prototype.AssemblyInfoInputs.cache
+/home/cristobal/MEGA/U/Diseno/Examen/patterns/creational/rg_Prototype/obj/Debug/netcoreapp3.1/rg_Prototype.AssemblyInfo.cs
+/home/cristobal/MEGA/U/Diseno/Examen/patterns/creational/rg_Prototype/obj/Debug/netcoreapp3.1/rg_Prototype.dll
+/home/cristobal/MEGA/U/Diseno/Examen/patterns/creational/rg_Prototype/obj/Debug/netcoreapp3.1/rg_Prototype.pdb

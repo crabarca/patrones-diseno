@@ -1,0 +1,11 @@
+/Users/jose/Programming/RiderProjects/IIC2113-2019/ChainOfResponsibility/bin/Debug/netcoreapp3.0/ChainOfResponsibility
+/Users/jose/Programming/RiderProjects/IIC2113-2019/ChainOfResponsibility/bin/Debug/netcoreapp3.0/ChainOfResponsibility.deps.json
+/Users/jose/Programming/RiderProjects/IIC2113-2019/ChainOfResponsibility/bin/Debug/netcoreapp3.0/ChainOfResponsibility.runtimeconfig.json
+/Users/jose/Programming/RiderProjects/IIC2113-2019/ChainOfResponsibility/bin/Debug/netcoreapp3.0/ChainOfResponsibility.runtimeconfig.dev.json
+/Users/jose/Programming/RiderProjects/IIC2113-2019/ChainOfResponsibility/bin/Debug/netcoreapp3.0/ChainOfResponsibility.dll
+/Users/jose/Programming/RiderProjects/IIC2113-2019/ChainOfResponsibility/bin/Debug/netcoreapp3.0/ChainOfResponsibility.pdb
+/Users/jose/Programming/RiderProjects/IIC2113-2019/ChainOfResponsibility/obj/Debug/netcoreapp3.0/ChainOfResponsibility.csprojAssemblyReference.cache
+/Users/jose/Programming/RiderProjects/IIC2113-2019/ChainOfResponsibility/obj/Debug/netcoreapp3.0/ChainOfResponsibility.AssemblyInfoInputs.cache
+/Users/jose/Programming/RiderProjects/IIC2113-2019/ChainOfResponsibility/obj/Debug/netcoreapp3.0/ChainOfResponsibility.AssemblyInfo.cs
+/Users/jose/Programming/RiderProjects/IIC2113-2019/ChainOfResponsibility/obj/Debug/netcoreapp3.0/ChainOfResponsibility.dll
+/Users/jose/Programming/RiderProjects/IIC2113-2019/ChainOfResponsibility/obj/Debug/netcoreapp3.0/ChainOfResponsibility.pdb

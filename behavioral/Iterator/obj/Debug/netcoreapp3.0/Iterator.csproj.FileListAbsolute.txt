@@ -1,0 +1,11 @@
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Iterator/bin/Debug/netcoreapp3.0/Iterator
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Iterator/bin/Debug/netcoreapp3.0/Iterator.deps.json
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Iterator/bin/Debug/netcoreapp3.0/Iterator.runtimeconfig.json
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Iterator/bin/Debug/netcoreapp3.0/Iterator.runtimeconfig.dev.json
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Iterator/bin/Debug/netcoreapp3.0/Iterator.dll
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Iterator/bin/Debug/netcoreapp3.0/Iterator.pdb
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Iterator/obj/Debug/netcoreapp3.0/Iterator.csprojAssemblyReference.cache
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Iterator/obj/Debug/netcoreapp3.0/Iterator.AssemblyInfoInputs.cache
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Iterator/obj/Debug/netcoreapp3.0/Iterator.AssemblyInfo.cs
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Iterator/obj/Debug/netcoreapp3.0/Iterator.dll
+/Users/jose/Programming/RiderProjects/IIC2113-2019/Iterator/obj/Debug/netcoreapp3.0/Iterator.pdb
